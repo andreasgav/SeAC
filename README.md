@@ -4,7 +4,7 @@ A dataset for sentiment and art movement classification of paintings
 
 ### Download Links:
 
-Images/artworks of SeAC dataset are available in the following three links:
+Artworks of SeAC dataset are available in the following three links (you will be warned if you are sure ig you want to download the files, but do not worry as it is automated message to any file that exceeds 25 Mb):
 
 [Painter names A - C](https://drive.google.com/uc?id=18gJZGRthEA_5Z0A5uADs63K7a2r1NcVL&export=download)
 
