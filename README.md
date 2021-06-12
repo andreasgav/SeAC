@@ -72,4 +72,4 @@ We provide 4 different sets of labels. The first corresponds to image classifica
 
 Although the use of the available resources is free, a citation to the creators of the dataset is considered necessary. So if SeAC dataset is used as a whole or as a part of a project, you should include the following citation:
 
-Gavros, A., Demetriadis, S. and Tefas, A. A dataset dor sentiment and art movement classification of paintings. (2021)
+Gavros, A., Demetriadis, S. and Tefas, A. _A dataset dor sentiment and art movement classification of paintings._ (2021)
