@@ -17,7 +17,10 @@ We are making publicly available the *Sentiment and Art Class Dataset*, abbrevia
 - Street Art
 - Surrealism
 
-which are representative of the art evolution during the last600 years. This specific dataset is built around art movements, whilst the majority of similar databases are structuredaround painter diversity. SeAC is an image dataset consisting of artworks (exclusively paintings) from 14th to 21stcentury. This dataset is orientated on classification of art movement and emotion recognition resulting from the sight ofa painting and consists of a total of 14644 artworks, which resulted from 140 artists. The total database consists of 14different art movements in which all art genres listed are represented with more than 1000 paintings in order to be fairlyrepresentative for each class.
+We made an effort to collect sufficient resources for each genre that we considered representative of the art evolution during the last 600 years, which is considered as modern-day art (after the Middle Ages). The structure of this specific dataset gives emphasis mainly in art movements, whilst the majority of similar databases are structured around painter diversity. SeAC is an image dataset consisting of artworks (exclusively paintings) from 14th to 21stcentury.
+
+This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 14644 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 140 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 1000 paintings in order to provide a fairly representative sample for each class.
+
 
 ### Download Links:
 
