@@ -1,6 +1,6 @@
 # SeAC
 
-We are making publicly available the *Sentiment and Art Class Dataset*, abbreviated as the SeAC dataset. Main target of our work was to create an artwork database, as there are limited publicly available resources of art-driven data, for machine learning projects. **SeAC database** consists of 14 different art movements, which are namely (in alphabetical order):
+We are making publicly available the *Sentiment and Art Class Dataset*, abbreviated as the SeAC dataset. Main target of our work was to create an artwork database, as there are limited publicly available resources of art-driven data, for machine learning projects. **SeAC dataset** consists of 14 different art movements, which are namely (in alphabetical order):
 
 - Art Nouveau
 - Baroque
