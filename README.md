@@ -19,7 +19,11 @@ We are making publicly available the *Sentiment and Art Class Dataset*, abbrevia
 
 We made an effort to collect sufficient resources for each genre that we considered representative of the art evolution during the last 600 years, which is considered as modern-day art (after the Middle Ages). The structure of this specific dataset gives emphasis mainly in art movements, whilst the majority of similar databases are structured around painter diversity. SeAC is an image dataset consisting of artworks (exclusively paintings) from 14th to 21st century.
 
-This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 14917 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 140 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 1000 paintings in order to provide a fairly representative sample for each class. 
+This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 14917 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 140 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 1000 paintings in order to provide a fairly representative sample for each class.
+
+### Data acquisition and availability standards
+
+The paintings as well as the artworks inserted in the database are freely available, so that usage rights and copyright issues do not arise. As a result the available data is copyright free and available for academic and research purposes. The artworks that form SeAC dataset were mainly extracted from _WikiArt online encyclopedia_. WikiArt 250,000 works of art by 3,000 different artists. The overall work available from the site is non-profit. The content of the website is released free of charge by the management team of the website which is based on voluntary participation. Street Art artworks data collection was done through web scraping in the websites maintained by the artists themselves, where the majority of the artists freely shares the works of art they create. Also, as most of these artworks are created on walls of public or private buildings, almost exclusively without any kind of authorization, so they are not under any kind of copyright issues.
 
 ### Classification Dataset labeling
 
@@ -64,3 +68,8 @@ We provide 4 different sets of labels. The first corresponds to image classifica
 
 [Emotion labels from third froup of annotators - download link](https://drive.google.com/uc?id=1pCDbqhY_n7oEJwKjfQSOIozg8P17UC0Y&export=download)
 
+## Citation
+
+Although the use of the available resources is free, a citation to the creators of the dataset is considered necessary. So if SeAC dataset is used as a whole or as a part of a project, you should include the following citation:
+
+Gavros, A., Demetriadis, S. and Tefas, A. A dataset dor sentiment and art movement classification of paintings. (2021)
