@@ -1,4 +1,4 @@
-### SeAC dataset
+# SeAC dataset
 
 We are making publicly available the *Sentiment and Art Class Dataset*, abbreviated as the SeAC dataset. Main target of our work was to create an artwork database, as there are limited publicly available resources of art-driven data, for machine learning projects. **SeAC dataset** consists of 14 different art movements, which are namely (in alphabetical order):
 
@@ -25,7 +25,7 @@ Unfortunately we do not provide other information apart from art genre of the pa
 
 ## Classification dataset
 
-# Dataset labeling
+### Dataset labeling
 
 An important parameter for the successful training of a machine learning model targeting classification among artclasses or painters, is the available data to be properly labeled, in order to avoid inserting in-certainty in the process.Obviously, the more incorrectly labeled data, the lower the ability of a convergent model to generalize the informationit draws from the training procedure, resulting in a model with reduced chances of successful prediction.Depending on the art movements, there is a question if certain works are correctly attributed to artists. A typical case isRembrandt, where the origin of several works that until recently were attributed to him is questioned. Recent researchsuggests that about half of the work that Rembrandt has been credited, is likely to have been produced by his students[26]. Similar examples exist to a greater or lesser extend in other artists and as a result of which the error rate attributedto incorrect data increases further.
 
