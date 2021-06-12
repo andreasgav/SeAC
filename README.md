@@ -21,7 +21,7 @@ We made an effort to collect sufficient resources for each genre that we conside
 
 This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 14917 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 140 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 1000 paintings in order to provide a fairly representative sample for each class.
 
-![Image1](1wX11VPqS-Pfv0BXsPQJdrZk4JdPVpPcH)
+<a href="https://drive.google.com/uc?export=view&id=<1wX11VPqS-Pfv0BXsPQJdrZk4JdPVpPcH>"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 ### Data acquisition and availability standards
 
