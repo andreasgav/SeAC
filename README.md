@@ -44,7 +44,7 @@ The selection of these emotions was based on Ekman’s distinctive model. To ens
 
 ### Artworks Links:
 
-Artworks of SeAC dataset are available in the following three links (you will be warned if you are sure if you want to download the files, but do not worry as it is automated message to any file that exceeds 25 Mb). We provide the artworks of the dataset, in three different parts, in alphabetical order. The collection of data and completion of the questionnaires was made in spring of 2020.
+Artworks of SeAC dataset are available in the following three links (you will be warned if you are sure if you want to download the files, but do not worry as it is automated message to any file that exceeds 25 Mb). We provide the artworks of the dataset, in three different parts, in alphabetical order.
 
 [Painter names A - C - download link](https://drive.google.com/uc?id=18gJZGRthEA_5Z0A5uADs63K7a2r1NcVL&export=download)
 
@@ -53,6 +53,8 @@ Artworks of SeAC dataset are available in the following three links (you will be
 [Painter names S - W - download link](https://drive.google.com/uc?id=1_rPloziapuBjQbJvKJK4YXAeKzjwjzc-&export=download)
 
 ### Labels links:
+
+We provide 4 different sets of labels. The first corresponds to image classification projects and the last 3 to sentiment analysis projects.
 
 [Classifications Labels - download link](https://drive.google.com/uc?id=1wiKfNeMuVSiQDntwKag6cNGFy3ssm5iq&export=download)
 
