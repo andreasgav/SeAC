@@ -21,9 +21,7 @@ We are making publicly available the *Sentiment and Art Class Dataset*, abbrevia
 
 We made an effort to collect sufficient resources for each genre that we considered representative of the art evolution during the last 600 years, which is considered as modern-day art (after the Middle Ages). The structure of this specific dataset gives emphasis mainly in art movements, whilst the majority of similar databases are structured around painter diversity. SeAC is an image dataset consisting of artworks (exclusively paintings) from 14th to 21st century.
 
-This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 14917 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 140 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 1000 paintings in order to provide a fairly representative sample for each class.
-
-![image2](https://drive.google.com/uc?export=view&id=1t0ehAX0RMJnqVm6PX_HuTf1BSUHlmjaI)
+This dataset is orientated on machine learning projects that focus on classification of art movement and sentiment analysis (arousing of certain emotions that result from the sight of a painting). The dataset is formed from 59755 artworks in total, although we are considering an increase in art genres and labels consequently, in the near future. Total number of artists that represented in the current dataset is 656 and we tried to have the most notable for each art class (Picasso in Cubism, Van Gogh in Post-Impressionism, Salvador Dali in Surrealism, Banksy in Street Art, Andy Warhol in Pop Art, El Greco in Mannerism, Caravaggio in Baroque, etc.). As the total database consists of 14 different art movements, all art classes listed are represented with more than 2500 paintings in order to provide a fairly representative sample for each class.
 
 ### Data acquisition and availability standards
 
@@ -31,7 +29,7 @@ The paintings as well as the artworks inserted in the database are freely availa
 
 ### Classification Dataset labeling
 
-Unfortunately we do not provide other information apart from art genre of the painting and the artist that painted the artwork. In this particular work it was necessary to correctly mark the artworks in the fields of origin (artist) and the artistic style that are included. As the majority of the data comes from the WikiArt online repository, it was possible to easily identify the artist, as well as the artistic stream in which each work studied, as WikiArt provides the ability to search the total work of a artist based on different artistic styles. Obviously, this distinction made in the repository does notguarantee the validity of the result, so a further validation/examination of the labels was made based on our personal criterion for the correct labeling of the works used, to ensure the smallest possible amount of mislabelled data. Apparently, it is not possible to thoroughly control a sample of images that exceed 14000 in number. As this work was manual (Web scraping) this resulted to the limited availability of more information for each painting apart from painter and art class.
+We provide information for the art genre of the painting, the name of the painting and the artist that painted the artwork. In this particular work it was necessary to correctly mark the artworks in the fields of origin (artist) and the artistic style that are included. As the majority of the data comes from the WikiArt online repository, it was possible to easily identify the artist, as well as the artistic stream in which each work studied, as WikiArt provides the ability to search the total work of a artist based on different artistic styles. Obviously, this distinction made in the repository does notguarantee the validity of the result, so a further validation/examination of the labels was made based on our personal criterion for the correct labeling of the works used, to ensure the smallest possible amount of mislabelled data. Apparently, it is not possible to thoroughly control a sample of images that reaches 60000 in number. 
 
 ### One-hot encoding
 
@@ -50,30 +48,14 @@ The collection of labels was chosen to result from human observers, who were not
 
 The selection of these emotions was based on Ekman’s distinctive model. To ensure that the resulting dataset will have sufficient data for deep learning models, it was considered necessary for each artwork to be annotated by three different annotators. As a result of this logic, three distinct datasets of emotion emerged, for the same artwork database. This ensures that deep learning models that will be trained on SeAC dataset and perform satisfactorily in all three sets of data are really emotion-oriented and did not accidentally fit into a particular label dataset.
 
-### Artworks Links:
+### Artworks and Labels link:
 
-Artworks of SeAC dataset are available in the following three links (you will be warned if you are sure if you want to download the files, but do not worry as it is automated message to any file that exceeds 25 Mb). We provide the artworks of the dataset, in three different parts, in alphabetical order.
+Artworks of SeAC dataset are available in the following link (you will may be warned if you are sure if you want to download the files, but do not worry as it is automated message to any file that exceeds 25 Mb). We provide the artworks of the dataset, in alphabetical order.
 
-[Painter names A - C - download link](https://drive.google.com/uc?id=18gJZGRthEA_5Z0A5uADs63K7a2r1NcVL&export=download)
-
-[Painter names D - R - download link](https://drive.google.com/uc?id=1UJnC6yrn8-Cqa84thhGVu8Si8Ewr5rJr&export=download)
-
-[Painter names S - W - download link](https://drive.google.com/uc?id=1_rPloziapuBjQbJvKJK4YXAeKzjwjzc-&export=download)
-
-### Labels links:
-
-We provide 4 different sets of labels. The first corresponds to image classification projects and the last 3 to sentiment analysis projects.
-
-[Classifications Labels - download link](https://drive.google.com/uc?id=1wiKfNeMuVSiQDntwKag6cNGFy3ssm5iq&export=download)
-
-[Emotion labels from first froup of annotators - download link](https://drive.google.com/uc?id=1CyqrSfxCawhI_aLykEmKlCHHaTIYNvCH&export=download)
-
-[Emotion labels from second froup of annotators - download link](https://drive.google.com/uc?id=1LxllELLfjfKmj8VUqdizdE-o99at42im&export=download)
-
-[Emotion labels from third froup of annotators - download link](https://drive.google.com/uc?id=1pCDbqhY_n7oEJwKjfQSOIozg8P17UC0Y&export=download)
+[SeAC Dataset - download link](https://mega.nz/folder/vGpHhZyD#Akc8Ob8rhfBlQceqrvOjaQ)
 
 ## Citation
 
 Although the use of the available resources is free, a citation to the creators of the dataset is considered necessary. So if **SeAC dataset** is used as a whole or as a part of a project, we would encourage to reference to:
 
-**[1]** Gavros, A., Demetriadis, S. and Tefas, A. _A dataset dor sentiment and art movement classification of paintings._ (2021)
+**[1]** Gavros, A., Demetriadis, S. and Tefas, A. _A dataset dor sentiment and art movement classification of paintings._ (2022)
