@@ -1,6 +1,6 @@
 # SeAC dataset
 
-![image](https://github.com/andreasgav/SeAC/blob/main/seac_collage.png | width=100)
+![image](https://github.com/andreasgav/SeAC/blob/main/seac_collage.png)
 
 We are making publicly available the *Sentiment and Art Class Dataset*, abbreviated as the _SeAC dataset_. Main target of our work was to create an artwork database, as there are limited publicly available resources of art-driven data, for machine learning projects. **SeAC dataset** consists of 14 different art movements, which are namely (in alphabetical order):
 
